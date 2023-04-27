@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function Player() {
   return (
     <main
@@ -8,7 +10,7 @@ export default function Player() {
         <div id="player-1" className="player">
           <div className="wrapper">
 
-            <img src="https://images.unsplash.com/photo-1557672172-298e090bd0f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="Capa do cd Rockeseat - Single - Acorda Devinho" />
+            <Image src="https://images.unsplash.com/photo-1557672172-298e090bd0f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="Capa do cd Rockeseat - Single - Acorda Devinho" />
 
             <div className="info">
               <h1>Acorda Devinho</h1>
@@ -58,7 +60,7 @@ export default function Player() {
 
             <div className="info-wrapper">
 
-              <img src="https://images.unsplash.com/photo-1557672172-298e090bd0f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="Capa do cd Rockeseat - Single - Acorda Devinho" />
+              <Image src="https://images.unsplash.com/photo-1557672172-298e090bd0f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="Capa do cd Rockeseat - Single - Acorda Devinho" />
 
               <div className="info">
                 <h1>Acorda Devinho</h1>
@@ -111,7 +113,7 @@ export default function Player() {
           <div className="wrapper">
 
             <div className="info-wrapper">
-              <img src="https://images.unsplash.com/photo-1557672172-298e090bd0f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="Capa do cd Rockeseat - Single - Acorda Devinho" />
+              <Image src="https://images.unsplash.com/photo-1557672172-298e090bd0f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="Capa do cd Rockeseat - Single - Acorda Devinho" />
 
               <div className="info">
                 <h1>Acorda Devinho</h1>
