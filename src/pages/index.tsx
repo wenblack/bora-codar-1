@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Player() {
   return (
     <main
@@ -10,7 +8,7 @@ export default function Player() {
         <div id="player-1" className="player">
           <div className="wrapper">
 
-            <Image src="https://images.unsplash.com/photo-1557672172-298e090bd0f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="Capa do cd Rockeseat - Single - Acorda Devinho" />
+            <img src="https://images.unsplash.com/photo-1557672172-298e090bd0f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="Capa do cd Rockeseat - Single - Acorda Devinho" />
 
             <div className="info">
               <h1>Acorda Devinho</h1>
@@ -47,7 +45,7 @@ export default function Player() {
             <div className="track-time">
               <div className="track"></div>
               <div className="time">
-                <div className="total-time">03:20</div>
+                <div className="total-time">00:20</div>
                 <div className="last-time">00:12</div>
               </div>
             </div>
@@ -60,7 +58,7 @@ export default function Player() {
 
             <div className="info-wrapper">
 
-              <Image src="https://images.unsplash.com/photo-1557672172-298e090bd0f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="Capa do cd Rockeseat - Single - Acorda Devinho" />
+              <img src="https://images.unsplash.com/photo-1557672172-298e090bd0f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="Capa do cd Rockeseat - Single - Acorda Devinho" />
 
               <div className="info">
                 <h1>Acorda Devinho</h1>
@@ -113,7 +111,7 @@ export default function Player() {
           <div className="wrapper">
 
             <div className="info-wrapper">
-              <Image src="https://images.unsplash.com/photo-1557672172-298e090bd0f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="Capa do cd Rockeseat - Single - Acorda Devinho" />
+              <img src="https://images.unsplash.com/photo-1557672172-298e090bd0f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="Capa do cd Rockeseat - Single - Acorda Devinho" />
 
               <div className="info">
                 <h1>Acorda Devinho</h1>
